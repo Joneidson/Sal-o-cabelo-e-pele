@@ -19,11 +19,12 @@ O site oferece uma interface clara e amigável, com destaque para a identidade v
 
 ## 🔗 Acesse o site direto aqui:
 
-[![Visitar Site 💇‍♀️](https://img.shields.io/badge/🔗-Visitar%20Site-amber?style=for-the-badge&logo=github)](https://joneidson.github.io/Sal-o-cabelo-e-pele/)
-
-    🚀 Abrir Site do Salão Cabelo e Pele
+<div>
+  <a href="https://joneidson.github.io/Sal-o-cabelo-e-pele/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗-Visitar%20Site-amber?style=for-the-badge&logo=github" alt="Visitar Site 💇‍♀️"/>
   </a>
 </div>
+
 
 
 ## 📁 Estrutura do Projeto
