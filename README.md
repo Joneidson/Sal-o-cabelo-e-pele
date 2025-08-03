@@ -17,8 +17,6 @@ O site oferece uma interface clara e amigável, com destaque para a identidade v
 
 ---
 
-## 🔗 Acesse o Site Online
-
 ## 🔗 Acesse o site direto aqui:
 
 [![Visitar Site 💇‍♀️](https://img.shields.io/badge/🔗-Visitar%20Site-amber?style=for-the-badge&logo=github)](https://joneidson.github.io/Sal-o-cabelo-e-pele/)
