@@ -19,20 +19,10 @@ O site oferece uma interface clara e amigável, com destaque para a identidade v
 
 ## 🔗 Acesse o Site Online
 
-<div style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://joneidson.github.io/Sal-o-cabelo-e-pele/" target="_blank" 
-     style="
-       background-color: #f59e0b; /* amber-500 do Tailwind */
-       color: white; 
-       padding: 10px 20px; 
-       border-radius: 8px; 
-       text-decoration: none; 
-       font-weight: bold;
-       display: inline-block;
-       transition: background-color 0.3s ease;
-     "
-     onmouseover="this.style.backgroundColor='#b45309'"
-     onmouseout="this.style.backgroundColor='#f59e0b'">
+## 🔗 Acesse o site direto aqui:
+
+[![Visitar Site 💇‍♀️](https://img.shields.io/badge/🔗-Visitar%20Site-amber?style=for-the-badge&logo=github)](https://joneidson.github.io/Sal-o-cabelo-e-pele/)
+
     🚀 Abrir Site do Salão Cabelo e Pele
   </a>
 </div>
