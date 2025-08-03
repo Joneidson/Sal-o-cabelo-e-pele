@@ -37,8 +37,6 @@ O site oferece uma interface clara e amigável, com destaque para a identidade v
   </a>
 </div>
 
-## 📁 Estrutura do Projeto
-
 
 ## 📁 Estrutura do Projeto
 
